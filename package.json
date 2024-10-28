@@ -18,6 +18,7 @@
   "dependencies": {
     "@bbva-web-components/bbva-core-lit-helpers": "^1.0.0",
     "@bbva-web-components/bbva-foundations-styles": "^2.0.0",
+    "@pokedex/pokemon-ux": "git+https://github.com/jhonr21/pokemon-ux.git#pokemon",
     "lit-element": "^2.0.0",
     "lit-html": "^1.0.0"
   },
